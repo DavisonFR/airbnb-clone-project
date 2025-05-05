@@ -88,3 +88,30 @@ Facilitates agile development practices, sprint planning, and daily stand-ups.
 Removes any blockers that affect team progress.
 
 Ensures smooth collaboration and team efficiency.
+
+##UI Component Patterns
+To ensure a consistent and reusable UI, we will define core components that enhance user experience and maintain a structured design.
+
+** Navbar
+The navigation bar will allow users to access different sections of the site efficiently.
+
+Elements: Logo, search bar, login/signup buttons, responsive menu.
+
+Functionality: Provides easy access to key pages and improves navigation.
+
+**Property Card
+Each property listing will be displayed using a structured card layout.
+
+Elements: Property image, price, location, rating, favorite button.
+
+Functionality: Displays essential details and encourages engagement.
+
+**Footer
+The footer contains helpful links and site information.
+
+Elements: Site links, company details, social media icons, copyright notice.
+
+Functionality: Provides additional navigation and branding.
+
+Why UI Component Patterns Matter
+Using modular UI components ensures consistency, efficiency, and scalability. Each component is designed to be reusable, reducing development time and improving maintainability.
