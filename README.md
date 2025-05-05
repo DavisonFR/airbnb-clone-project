@@ -14,7 +14,7 @@ This project is a full-stack clone of the popular accomodation booking platform 
   -Ensure secure authentication & user management
 ## UI/UX Design Planning
 
-### 🎨 Color Styles
+### Color Styles
 - **Primary:** `#FF5A5F`
 - **Secondary:** `#008489`
 - **Background:** `#FFFFFF`
